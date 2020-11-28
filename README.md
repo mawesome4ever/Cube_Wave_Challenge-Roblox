@@ -1,6 +1,6 @@
 # Cube_Wave_Challenge-Roblox
 
-Completed the Cube Wave challenge set by Coding Train. Here is the final results:
+Completed the Cube Wave challenge set by Coding Train: https://thecodingtrain.com/CodingChallenges/086-beesandbombs.html. Here is the final results:
 <p align="center">
   <img src="https://github.com/mawesome4ever/Dependancies/blob/master/Cube_Waves_Challenge.gif" width="350" title="Final Results">
 </p>
